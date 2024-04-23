@@ -1,0 +1,417 @@
+DEBUG (1): Application booted.
+DEBUG (1): The mote 1 has turn on the Timer
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+ERROR (1): The packet 1 sent by the mote 1 was NOT acknowledged successfully
+DEBUG (2): Application booted.
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 1
+DEBUG (2): A message is received, check the content of the message
+           packet type (1: Request, 2: Response): 1, counter : 1, reading : 0
+DEBUG (1): The packet 1 was sent successfully by the mote 1
+DEBUG (1): The packet 1 sent by the mote 1 was acknowledged successfully
+DEBUG (1): I need to send other 8 packets
+DEBUG (2): The mote 2 tries to send a packet to the mote 1 with the following information:
+           packet type (1: Request, 2: Response): 2, counter : 1, reading : 245
+DEBUG (1): A message is received, check the content of the message
+           packet type (1: Request, 2: Response): 2, counter : 1, reading : 245
+DEBUG (2): The packet 1 was sent successfully by the mote 2
+DEBUG (2): The packet 1 sent by the mote 2 was acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 2
+DEBUG (2): A message is received, check the content of the message
+           packet type (1: Request, 2: Response): 1, counter : 2, reading : 0
+DEBUG (1): The packet 2 was sent successfully by the mote 1
+DEBUG (1): The packet 2 sent by the mote 1 was acknowledged successfully
+DEBUG (1): I need to send other 7 packets
+DEBUG (2): The mote 2 tries to send a packet to the mote 1 with the following information:
+           packet type (1: Request, 2: Response): 2, counter : 2, reading : 211
+DEBUG (1): A message is received, check the content of the message
+           packet type (1: Request, 2: Response): 2, counter : 2, reading : 211
+DEBUG (2): The packet 2 was sent successfully by the mote 2
+DEBUG (2): The packet 2 sent by the mote 2 was acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 3
+DEBUG (2): A message is received, check the content of the message
+           packet type (1: Request, 2: Response): 1, counter : 3, reading : 0
+DEBUG (1): The packet 3 was sent successfully by the mote 1
+DEBUG (1): The packet 3 sent by the mote 1 was acknowledged successfully
+DEBUG (1): I need to send other 6 packets
+DEBUG (2): The mote 2 tries to send a packet to the mote 1 with the following information:
+           packet type (1: Request, 2: Response): 2, counter : 3, reading : 141
+DEBUG (1): A message is received, check the content of the message
+           packet type (1: Request, 2: Response): 2, counter : 3, reading : 141
+DEBUG (2): The packet 3 was sent successfully by the mote 2
+DEBUG (2): The packet 3 sent by the mote 2 was acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 4
+DEBUG (2): A message is received, check the content of the message
+           packet type (1: Request, 2: Response): 1, counter : 4, reading : 0
+DEBUG (1): The packet 4 was sent successfully by the mote 1
+DEBUG (1): The packet 4 sent by the mote 1 was acknowledged successfully
+DEBUG (1): I need to send other 5 packets
+DEBUG (2): The mote 2 tries to send a packet to the mote 1 with the following information:
+           packet type (1: Request, 2: Response): 2, counter : 4, reading : 127
+DEBUG (1): A message is received, check the content of the message
+           packet type (1: Request, 2: Response): 2, counter : 4, reading : 127
+DEBUG (2): The packet 4 was sent successfully by the mote 2
+DEBUG (2): The packet 4 sent by the mote 2 was acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 5
+DEBUG (2): A message is received, check the content of the message
+           packet type (1: Request, 2: Response): 1, counter : 5, reading : 0
+DEBUG (1): The packet 5 was sent successfully by the mote 1
+DEBUG (1): The packet 5 sent by the mote 1 was acknowledged successfully
+DEBUG (1): I need to send other 4 packets
+DEBUG (2): The mote 2 tries to send a packet to the mote 1 with the following information:
+           packet type (1: Request, 2: Response): 2, counter : 5, reading : 135
+DEBUG (1): A message is received, check the content of the message
+           packet type (1: Request, 2: Response): 2, counter : 5, reading : 135
+DEBUG (2): The packet 5 was sent successfully by the mote 2
+DEBUG (2): The packet 5 sent by the mote 2 was acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 6
+DEBUG (2): A message is received, check the content of the message
+           packet type (1: Request, 2: Response): 1, counter : 6, reading : 0
+DEBUG (1): The packet 6 was sent successfully by the mote 1
+DEBUG (1): The packet 6 sent by the mote 1 was acknowledged successfully
+DEBUG (1): I need to send other 3 packets
+DEBUG (2): The mote 2 tries to send a packet to the mote 1 with the following information:
+           packet type (1: Request, 2: Response): 2, counter : 6, reading : 88
+DEBUG (1): A message is received, check the content of the message
+           packet type (1: Request, 2: Response): 2, counter : 6, reading : 88
+DEBUG (2): The packet 6 was sent successfully by the mote 2
+DEBUG (2): The packet 6 sent by the mote 2 was acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 7
+DEBUG (2): A message is received, check the content of the message
+           packet type (1: Request, 2: Response): 1, counter : 7, reading : 0
+DEBUG (1): The packet 7 was sent successfully by the mote 1
+DEBUG (1): The packet 7 sent by the mote 1 was acknowledged successfully
+DEBUG (1): I need to send other 2 packets
+DEBUG (2): The mote 2 tries to send a packet to the mote 1 with the following information:
+           packet type (1: Request, 2: Response): 2, counter : 7, reading : 136
+DEBUG (1): A message is received, check the content of the message
+           packet type (1: Request, 2: Response): 2, counter : 7, reading : 136
+DEBUG (2): The packet 7 was sent successfully by the mote 2
+DEBUG (2): The packet 7 sent by the mote 2 was acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 8
+DEBUG (2): A message is received, check the content of the message
+           packet type (1: Request, 2: Response): 1, counter : 8, reading : 0
+DEBUG (1): The packet 8 was sent successfully by the mote 1
+DEBUG (1): The packet 8 sent by the mote 1 was acknowledged successfully
+DEBUG (1): I need to send other 1 packets
+DEBUG (2): The mote 2 tries to send a packet to the mote 1 with the following information:
+           packet type (1: Request, 2: Response): 2, counter : 8, reading : 252
+DEBUG (1): A message is received, check the content of the message
+           packet type (1: Request, 2: Response): 2, counter : 8, reading : 252
+DEBUG (2): The packet 8 was sent successfully by the mote 2
+DEBUG (2): The packet 8 sent by the mote 2 was acknowledged successfully
+DEBUG (1): The mote 1 tries to send a packet to the mote 2 with the following information:
+           packet type (1: Request, 2: Response): 1, counter : 9
+DEBUG (2): A message is received, check the content of the message
+           packet type (1: Request, 2: Response): 1, counter : 9, reading : 0
+DEBUG (1): The packet 9 was sent successfully by the mote 1
+DEBUG (1): The packet 9 sent by the mote 1 was acknowledged successfully
+DEBUG (1): All packets are sent, now the timer is off
+DEBUG (2): The mote 2 tries to send a packet to the mote 1 with the following information:
+           packet type (1: Request, 2: Response): 2, counter : 9, reading : 203
+DEBUG (1): A message is received, check the content of the message
+           packet type (1: Request, 2: Response): 2, counter : 9, reading : 203
+DEBUG (2): The packet 9 was sent successfully by the mote 2
+DEBUG (2): The packet 9 sent by the mote 2 was acknowledged successfully
+DEBUG (1): Stop done by the SplitControl of the mote 1

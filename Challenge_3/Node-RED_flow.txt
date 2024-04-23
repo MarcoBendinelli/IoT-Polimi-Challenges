@@ -1,0 +1,81 @@
+[
+    {
+        "id": "86ef04f9.8e4708",
+        "type": "tab",
+        "label": "Challenge 3",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "b26766d8.c6f5d8",
+        "type": "tcp in",
+        "z": "86ef04f9.8e4708",
+        "name": "",
+        "server": "client",
+        "host": "localhost",
+        "port": "60001",
+        "datamode": "stream",
+        "datatype": "utf8",
+        "newline": "\\n",
+        "topic": "",
+        "base64": false,
+        "x": 110,
+        "y": 80,
+        "wires": [
+            [
+                "c2fe0a8.13963f8"
+            ]
+        ]
+    },
+    {
+        "id": "1463b14.ead234f",
+        "type": "mqtt out",
+        "z": "86ef04f9.8e4708",
+        "name": "",
+        "topic": "",
+        "qos": "",
+        "retain": "",
+        "broker": "m4rc0",
+        "x": 530,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "c2fe0a8.13963f8",
+        "type": "function",
+        "z": "86ef04f9.8e4708",
+        "name": "createMessage",
+        "func": "message = \"field1=\"+msg.payload[0]+\"&field2=\"+msg.payload[1]+\"&field3=\"+msg.payload[2]+\"&status=MQTTPUBLISH\";\n\nconst obj = {\n    topic: \"channels/1726898/publish\",\n    payload: message\n}\n\nreturn obj;",
+        "outputs": 1,
+        "noerr": 0,
+        "x": 340,
+        "y": 80,
+        "wires": [
+            [
+                "1463b14.ead234f"
+            ]
+        ]
+    },
+    {
+        "id": "b37a4e71.0c967",
+        "type": "mqtt-broker",
+        "z": "",
+        "name": "IoT Lab",
+        "broker": "m4rc0",
+        "port": "1883",
+        "clientid": "m4rc0",
+        "usetls": false,
+        "compatmode": true,
+        "keepalive": "60",
+        "cleansession": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthPayload": "",
+        "closeTopic": "",
+        "closeQos": "0",
+        "closePayload": "",
+        "willTopic": "",
+        "willQos": "0",
+        "willPayload": ""
+    }
+]

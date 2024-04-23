@@ -1,0 +1,225 @@
+[
+    {
+        "id": "b5d1af96.0416f8",
+        "type": "tab",
+        "label": "Challenge 2",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "cd891127.f6aef8",
+        "type": "inject",
+        "z": "b5d1af96.0416f8",
+        "name": "",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "x": 100,
+        "y": 80,
+        "wires": [
+            [
+                "39e6a4a7.3bde1c"
+            ]
+        ]
+    },
+    {
+        "id": "39e6a4a7.3bde1c",
+        "type": "file in",
+        "z": "b5d1af96.0416f8",
+        "name": "Read the CSV file",
+        "filename": "/home/user/Desktop/Challenges/2/iot-feeds.csv",
+        "format": "utf8",
+        "chunk": false,
+        "sendError": false,
+        "x": 310,
+        "y": 80,
+        "wires": [
+            [
+                "85d0c79a.4d8bb"
+            ]
+        ]
+    },
+    {
+        "id": "85d0c79a.4d8bb",
+        "type": "csv",
+        "z": "b5d1af96.0416f8",
+        "name": "From CSV to Obj",
+        "sep": ",",
+        "hdrin": true,
+        "hdrout": "",
+        "multi": "mult",
+        "ret": "\\n",
+        "temp": "code\t,field1,field2,field3,field4,field5,field6,field7",
+        "skip": "0",
+        "x": 570,
+        "y": 80,
+        "wires": [
+            [
+                "8e4141b1.d5d298"
+            ]
+        ]
+    },
+    {
+        "id": "8e4141b1.d5d298",
+        "type": "function",
+        "z": "b5d1af96.0416f8",
+        "name": "filterAndConstruct",
+        "func": "// Personal code: 10673478\n// Last 4 digits: 3478\n\nvar msgsToPublish = [];\nvar field5ToShow = [];\n\nconst last4Personal = 3478;\n\nconst mineFeeds = msg.payload.filter(x => (x.code >= last4Personal && x.code < last4Personal + 100));\n\nmineFeeds.forEach(constructObjects);\n\nfunction constructObjects(item) {\n    field1 = item.field1;\n    field2 = item.field2;\n    field5 = item.field5;\n    \n    message = \"field1=\"+field1+\"&field2=\"+field2+\"&field5=\"+field5+\"&status=MQTTPUBLISH\";\n    \n    const publishObj = {\n        topic: \"channels/1711441/publish\",\n        payload: message\n    }\n    \n    const field5Obj = {\n        topic: \"RSSI\",\n        payload: field5\n    }\n    \n    msgsToPublish.push(publishObj);\n    field5ToShow.push(field5Obj);\n}\n\nreturn [msgsToPublish, field5ToShow];",
+        "outputs": 2,
+        "noerr": 0,
+        "x": 270,
+        "y": 180,
+        "wires": [
+            [
+                "7313fca7.212964"
+            ],
+            [
+                "4451adfb.c98ccc"
+            ]
+        ]
+    },
+    {
+        "id": "b4f84d9f.2d518",
+        "type": "mqtt out",
+        "z": "b5d1af96.0416f8",
+        "name": "",
+        "topic": "",
+        "qos": "",
+        "retain": "",
+        "broker": "m4rc0",
+        "x": 770,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "7313fca7.212964",
+        "type": "delay",
+        "z": "b5d1af96.0416f8",
+        "name": "",
+        "pauseType": "rate",
+        "timeout": "5",
+        "timeoutUnits": "seconds",
+        "rate": "2",
+        "nbRateUnits": "1",
+        "rateUnits": "minute",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "x": 560,
+        "y": 160,
+        "wires": [
+            [
+                "b4f84d9f.2d518"
+            ]
+        ]
+    },
+    {
+        "id": "e57b58a7.ae5378",
+        "type": "ui_chart",
+        "z": "b5d1af96.0416f8",
+        "name": "RSSI",
+        "group": "161a3341.0bbc4d",
+        "order": 0,
+        "width": "0",
+        "height": "0",
+        "label": "RSSI",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": true,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": "2",
+        "removeOlderPoints": "100",
+        "removeOlderUnit": "60",
+        "cutout": 0,
+        "useOneColor": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "useOldStyle": false,
+        "x": 770,
+        "y": 220,
+        "wires": [
+            [],
+            []
+        ]
+    },
+    {
+        "id": "4451adfb.c98ccc",
+        "type": "delay",
+        "z": "b5d1af96.0416f8",
+        "name": "",
+        "pauseType": "rate",
+        "timeout": "1",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "0.5",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "x": 550,
+        "y": 220,
+        "wires": [
+            [
+                "e57b58a7.ae5378"
+            ]
+        ]
+    },
+    {
+        "id": "b37a4e71.0c967",
+        "type": "mqtt-broker",
+        "z": "",
+        "name": "IoT Lab",
+        "broker": "m4rc0",
+        "port": "1883",
+        "clientid": "m4rc0",
+        "usetls": false,
+        "compatmode": true,
+        "keepalive": "60",
+        "cleansession": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthPayload": "",
+        "closeTopic": "",
+        "closeQos": "0",
+        "closePayload": "",
+        "willTopic": "",
+        "willQos": "0",
+        "willPayload": ""
+    },
+    {
+        "id": "161a3341.0bbc4d",
+        "type": "ui_group",
+        "z": "",
+        "name": "Default",
+        "tab": "fb1ea3f.07f656",
+        "disp": true,
+        "width": "20",
+        "collapse": false
+    },
+    {
+        "id": "fb1ea3f.07f656",
+        "type": "ui_tab",
+        "z": "",
+        "name": "Home",
+        "icon": "dashboard"
+    }
+]
