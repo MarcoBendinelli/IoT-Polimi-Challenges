@@ -1,7 +1,7 @@
 # IoT_Polimi
 [![License: MIT][license-image]][license]
 
-Challenges of the Internet of Things course of the Master's program "Computer Engineering" of the Polytechnic University of Milan (2021/2022).
+Challenges of the Internet of Things course of the Master's program "Computer Engineering" of the Politecnico di Milano (2021/2022).
 
 ## Challenges
 | Challenges | Complete points |
